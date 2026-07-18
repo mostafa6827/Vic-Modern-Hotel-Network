@@ -14,7 +14,6 @@ The design includes Router-on-a-Stick implementation, VLAN segmentation, trunkin
 
 ## 📸 Network Topology
 
-<img width="1323" height="752" alt="topology" src="https://github.com/user-attachments/assets/7953d98a-514e-46d1-82a1-5ebb146d6cbb" />
 
 ![Network Topology](topology.png)
 
